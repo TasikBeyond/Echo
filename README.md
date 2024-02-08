@@ -38,7 +38,7 @@ Ensure these environment variables are set in your `.env` file:
 
 #### POST `/api/text-to-speech` (Creates an audio file)
 #### GET `/api/audio/{id}` (Downloads the .mp3 audio file)
-#### GET `/api/audio/{id}/timestamps` (Returns the word timestamps for the audio file)
+#### GET `/api/audio/{id}/data` (Returns the word timestamps for the audio file)
 
 ## Audio Data Structure 
 
