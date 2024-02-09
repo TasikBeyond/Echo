@@ -18,7 +18,7 @@ This is a simple interface to showcase ElevenLabs text-to-speech API with word h
 - TailwindCSS (Not strictly necessary but I always use TailwindCSS for my projects)
 - textalk/websocket (ElevenLabs text-to-speech API only returns timestamps for word highlighting via a websocket connection)
 - AWS S3 (for storing audio files)
-- MySQL (for storing audio data)
+- MySQL (for storing audio metadata)
 
 ### Environment Variables
 
