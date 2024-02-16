@@ -56,4 +56,4 @@ Ensure these environment variables are set in your `.env` file:
 
 ## Application 
 
-[Application Example Image](https://github.com/TasikBeyond/Echo/assets/13050249/ebbb6494-febf-4ffb-a609-f460293efad8)
+![Application Example Image](https://github.com/TasikBeyond/Echo/assets/13050249/ebbb6494-febf-4ffb-a609-f460293efad8)
